@@ -1,0 +1,2 @@
+# Baphomet-chan
+Discord bot
